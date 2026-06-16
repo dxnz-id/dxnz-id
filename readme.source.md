@@ -176,3 +176,5 @@
 ```
 
 [![GitHub Stats](https://ghstats.dev/api/card?username=dxnz-id&theme=catppuccin&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers&custom_title=Stats&border_radius=10)](https://github.com/dxnz-id)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dxnz-id&theme=catppuccin&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
