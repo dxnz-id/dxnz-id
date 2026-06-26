@@ -4,4 +4,4 @@
 
 [![GitHub Stats](https://ghstats.dev/api/card?username=dxnz-id\&theme=catppuccin\&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers\&custom_title=Stats\&border_radius=10)](https://github.com/dxnz-id)
 
-![Top Languages](https://ghstats.dev/api/langs?username=dxnz-id\&theme=catppuccin)<br/><br/>
+![Top Languages](https://ghstats.dev/api/langs?username=dxnz-id\&theme=catppuccin\&hide_title=true\&max_langs=12)<br/><br/>
